@@ -1,2 +1,4 @@
 # Unity_labs
-Sets of small projects 
+Uczeń: Bartosz Miniszewski
+Numer indeksu: 149680
+
