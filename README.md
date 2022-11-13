@@ -8,3 +8,4 @@ Numer indeksu: 149680
 
 # Lab 2
 ![Piramida](https://github.com/AguliRojo/Unity_labs/blob/main/lab_2/Piramida.png?raw=true)
+![Wieza](https://github.com/AguliRojo/Unity_labs/blob/main/lab_2/Wieza.png?raw=true)
